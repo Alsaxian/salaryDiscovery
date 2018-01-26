@@ -27,9 +27,16 @@ Puis utiliser ```%R``` ou ```%%R``` pour écrire du code.
 Pour installer un package R connu : `install conda [-c r] r-<package name>`.  
 Pour ajouter la channel r dans anaconda : `conda config --add channels r`  
 Pour trouver la channel d'un package r non connu `anaconda search -t conda r-mlbench`. Le "répertoire" affiché est le nom de la cannel.  
-Puis `anaconda -c channel r-<package>`.  
-  
-
-
+Puis `anaconda -c channel r-<package>`.    
+    
+enables the %%R magic, not necessary if you've already done this  
+```
+%load_ext rpy2.ipython
+```
+import df from global env  
+make default figure size 5 by 5 inches, you can change the units to px, cm, etc  
+```
+%%R -i df -w 5 -h 5 --units in -r 200
+```
 
 
