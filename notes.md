@@ -24,6 +24,11 @@ Puis dans JN :
 
 Puis utiliser ```%R``` ou ```%%R``` pour écrire du code.
 
+Pour installer un package R connu : `install conda [-c r] r-<package name>`.  
+Pour ajouter la channel r dans anaconda : `conda config --add channels r`  
+Pour trouver la channel d'un package r non connu `anaconda search -t conda r-mlbench`. Le "répertoire" affiché est le nom de la cannel.  
+Puis `anaconda -c channel r-<package>`.  
+  
 
 
 
