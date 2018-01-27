@@ -6,7 +6,8 @@
 ## 4. EMM (Exceptional model mining)
 ## 5. Recherche des motifs fréquents et de règles d'association
 ## 6. Réduction de dimensions pour visualiser : PCA, t-NSE et Autoencoder
-## 7. Expérience, pipeline work en Python
+## 7. Expérience, pipeline work en Python, interaction entre Python et R  
+## 8. Visualisation des données en plotly  
 
 
 
