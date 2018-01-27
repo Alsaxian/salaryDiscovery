@@ -38,5 +38,5 @@ make default figure size 5 by 5 inches, you can change the units to px, cm, etc
 ```
 %%R -i df -w 5 -h 5 --units in -r 200
 ```
-
+Pour utiliser un jeu de données de Python en R `%%R -i jeu_données`.
 
