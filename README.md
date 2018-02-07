@@ -9,6 +9,6 @@ Ordre de lecture :
 * [dffiérentes méthodes de clustering](https://github.com/Alsaxian/salaryDiscovery/blob/master/Clustering.ipynb)
 * recherche de motifs fréquents et de règles d'association, dont les analyses et le  est déjà compris dans [le rapport](https://github.com/Alsaxian/salaryDiscovery/blob/master/rapport.ipynb).  
   
-__On conseille fortement au lecteur de jeter un coup d'oeil dans les fichiers `ipyton` avc plein d'illustrations graphique !__  
+__On conseille fortement au lecteur de non seulement lire le rapport, mais aussi jeter un coup d'oeil dans les fichiers `ipyton` listés plus haut avec plein d'illustrations graphique !__  
   
 Pour toute question, remarque ou critique n'hésitez pas à contacter les auteurs.
